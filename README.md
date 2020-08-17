@@ -7,8 +7,13 @@ Future developments:
 1. Dynamically geneerated content web scraping using Selenium 
 2. User Dashboard with search capabilities. 
 
-Difficulties and What I've learned:
+Difficulties:
 1. While iterating through tags, need to account for NoneType(s)!
+
+What I learned/ gotten better at:
+1. Using `pdb` to debug setting breakpoints 
+2. reading library source code (json and beautifulsoup4) for debug purposes
+3. export scraped data to CSV
 
 ### Resources and Sources:
 
